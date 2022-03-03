@@ -1,2 +1,2 @@
 # Embedded-Programming-Principles
-I closely worked on STM32 to design and develop embedded projects which covered software design and implementation using the C language. Topics included: algorithm design, modular code design, programming style, functions, arrays, pointers, strings, data structures, and input/output. Emphasis was placed on using these techniques for embedded software development, including the use of embedded development tools.
+morseCode Demo - https://youtu.be/PLCOkhuCPPg
